@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640">
+  <rect width="1280" height="640" fill="#0d1117"/>
+  <rect x="0" y="0" width="10" height="640" fill="#cc785c"/>
+
+  <text x="90" y="125" font-family="'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="72" font-weight="700" fill="#e6edf3">CLAUDE.md</text>
+  <text x="90" y="172" font-family="'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="28" font-weight="400" fill="#8b949e">anti-slop playbook</text>
+
+  <line x1="90" y1="210" x2="1190" y2="210" stroke="#21262d" stroke-width="1"/>
+
+  <g font-family="'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="32">
+    <text x="90" y="275" fill="#e6edf3"><tspan fill="#7ee787">▸</tspan><tspan dx="20">Comments explain WHY, not WHAT</tspan></text>
+    <text x="90" y="330" fill="#e6edf3"><tspan fill="#7ee787">▸</tspan><tspan dx="20">No mixed-language comments</tspan></text>
+    <text x="90" y="385" fill="#e6edf3"><tspan fill="#7ee787">▸</tspan><tspan dx="20">5-token typography, no inline </tspan><tspan fill="#f0883e">fontSize</tspan></text>
+    <text x="90" y="440" fill="#e6edf3"><tspan fill="#7ee787">▸</tspan><tspan dx="20">No dead exports across files</tspan></text>
+    <text x="90" y="495" fill="#e6edf3"><tspan fill="#7ee787">▸</tspan><tspan dx="20">English commits, no exceptions</tspan></text>
+  </g>
+
+  <text x="90" y="575" font-family="'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="22" fill="#8b949e">tornaia / ai-engineering-playbook</text>
+  <text x="90" y="603" font-family="'Cascadia Code', 'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="18" fill="#6e7681">distilled from maguskartya.app</text>
+</svg>
